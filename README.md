@@ -25,8 +25,9 @@ El Ejericio se compone de los siguiente 14 métodos
 8. Método Realizar_compra
 9. Método  Procesar Pago
 10. Método  Agregar con cliente
-11 Método: Ver Clientes
-12 Metodo Registrar Compra
+
+11. Método: Ver Clientes
+12. Metodo Registrar Compra
 13. Metodo Ver compras Cliente
 14 MetodoVentas Totales
 
