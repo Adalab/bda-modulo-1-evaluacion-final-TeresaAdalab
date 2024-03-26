@@ -1,6 +1,6 @@
 # EJERECICIO DE EVALUACION MODULO 1
 
-_Ejerecicio de Evaluaion del modulo 1 consistente en la creacion de una Tienda Onlien_
+_Ejerecicio de Evaluaion del modulo 1 consistente en la creacion de una Tienda Online_
 
 ### Como Funciona 🔧
 
@@ -45,21 +45,23 @@ El Ejericio se compone de los siguiente 14 métodos
 
 ```
 8. Método Realizar_compra
-
+```
 ```
 9. Método : Procesar Pago
 ```
-
+```
 10. Método : Agregar con cliente
+```
 ```
 11 Método: Ver Clientes
 ```
-
+```
 12. Registrar Compra
 ```
 
 ```
 13. Ver compras Cliente
+```
 ```
 14 Ventas Totales
 ```
