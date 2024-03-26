@@ -14,57 +14,40 @@ El ejerecicio se compone de 3 apartados
 
 El Ejericio se compone de los siguiente 14 métodos
 
-```
-0. Creación de la estructura de tipo Clase y su Metódo inicial
-```
 
-```
+0. Creación de la estructura de tipo Clase y su Metódo inicial
+
 1. Método Agregar Productos
 
-```
-```
 2. Método Ver Inventario de Productos
-```
-```
+
+
 3. Método Buscar Productos
-```
 
-```
+
 4. Método Actualizar Stocks
-```
+
 5. Método Eliminar_producto
-```
 
-```
 6. Método Calcular_valor_inventario
-```
-```
+
 7. Método Buscar producto con Regex
-```
-```
+
 8. Método Realizar_compra
-```
-```
+
 9. Método : Procesar Pago
-```
-```
+
 10. Método : Agregar con cliente
-```
 
-```
 11 Método: Ver Clientes
-```
 
-```
 12. Registrar Compra
-```
 
-```
+
 13. Ver compras Cliente
-```
-```
+
 14 Ventas Totales
-```
+
 
 
 ## Construido con 🛠️
