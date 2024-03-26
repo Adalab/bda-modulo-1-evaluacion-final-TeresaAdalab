@@ -23,12 +23,12 @@ El Ejericio se compone de los siguiente 14 métodos
 6. Método Calcular_valor_inventario
 7. Método Buscar producto con Regex
 8. Método Realizar_compra
-9. Método : Procesar Pago
-10. Método : Agregar con cliente
+9. Método  Procesar Pago
+10. Método  Agregar con cliente
 11 Método: Ver Clientes
-12. Registrar Compra
-13. Ver compras Cliente
-14 Ventas Totales
+12 Metodo Registrar Compra
+13. Metodo Ver compras Cliente
+14 MetodoVentas Totales
 
 
 
