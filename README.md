@@ -31,19 +31,15 @@ El Ejericio se compone de los siguiente 14 métodos
 
 ```
 4. Método Actualizar Stocks
-
 ```
 5. Método Eliminar_producto
 ```
-
 ```
 6. Método Calcular_valor_inventario
 ```
-
 ```
 7. Método Buscar producto con Regex
 ```
-
 ```
 8. Método Realizar_compra
 ```
