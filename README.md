@@ -4,7 +4,7 @@ _Ejerecicio de Evaluaion del modulo 1 consistente en la creacion de una Tienda O
 
 ### Como Funciona 🔧
 
-El ejerecio se compone de 3 apartados
+El ejerecicio se compone de 3 apartados
 * Markdown resumen de los pasos usados
 * Desarrollo del código elaborado
 * Ejecucion
@@ -34,6 +34,7 @@ El Ejericio se compone de los siguiente 14 métodos
 ```
 5. Método Eliminar_producto
 ```
+
 ```
 6. Método Calcular_valor_inventario
 ```
@@ -49,9 +50,11 @@ El Ejericio se compone de los siguiente 14 métodos
 ```
 10. Método : Agregar con cliente
 ```
+
 ```
 11 Método: Ver Clientes
 ```
+
 ```
 12. Registrar Compra
 ```
