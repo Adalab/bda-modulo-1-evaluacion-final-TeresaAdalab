@@ -23,7 +23,7 @@ El Ejericio se compone de los siguiente 14 métodos
 
 ```
 2. Método Ver Inventario de Productos
-
+```
 ```
 3. Método Buscar Productos
 ```
@@ -37,7 +37,6 @@ El Ejericio se compone de los siguiente 14 métodos
 
 ```
 6. Método Calcular_valor_inventario
-
 ```
 ```
 7. Método Buscar producto con Regex
